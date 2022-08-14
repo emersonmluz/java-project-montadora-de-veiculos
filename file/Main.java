@@ -66,7 +66,7 @@ class Main {
 						}
 					}
 
-					if (vazio == true) {
+					if (vazio) {
 						System.out.println();
 						System.out.println("Nenhum registro foi encontrado.");
 						System.out.println();
